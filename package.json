@@ -1,0 +1,26 @@
+{
+  "name": "old-snapshots-filter",
+  "version": "1.0.0",
+  "description": "Tool for filtering snapshots by their directory names",
+  "main": "old-snapshots-filter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kratocz/old-snapshots-filter.git"
+  },
+  "keywords": [
+    "tool",
+    "snapshots"
+  ],
+  "author": "Petr Kratochvil <krato@krato.cz>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kratocz/old-snapshots-filter/issues"
+  },
+  "homepage": "https://github.com/kratocz/old-snapshots-filter#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
