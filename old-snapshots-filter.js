@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-const moment = require(`${__dirname}/moment.js`);
+const moment = require(`moment`);
 const fs = require('fs');
 
 function parseDir(dirName) {
